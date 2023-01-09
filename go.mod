@@ -1,4 +1,4 @@
-module serverless-console-go-sdk
+module github.com/czubocha/serverless-console-go-sdk
 
 go 1.19
 
